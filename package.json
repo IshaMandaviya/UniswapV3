@@ -1,0 +1,24 @@
+{
+  "name": "uniswapv3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IshaMandaviya/UniswapV3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IshaMandaviya/UniswapV3/issues"
+  },
+  "homepage": "https://github.com/IshaMandaviya/UniswapV3#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@uniswap/v3-periphery": "^1.4.0",
+    "hardhat": "^2.9.1"
+  }
+}
